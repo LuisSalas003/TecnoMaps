@@ -1,6 +1,6 @@
 ﻿using TechoMaps.Domain.Models;
 using TechoMaps.Application.Services;
-using TechoMaps.Presentation; // <-- Agregamos esta línea para usar el Helper
+using TechoMaps.Presentation;
 
 Console.Clear();
 Console.WriteLine("=== TECHO MAPS (Sistema Experto Monótono) ===");
